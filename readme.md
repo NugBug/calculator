@@ -4,7 +4,7 @@ This basic calculator was created with HTML, CSS and JavaScript
 
 ## Installation
 
-Just download the files and launch in your browser locally.
+Just download the files and launch in your browser locally. Alternatively you can access this through the linked GitHub Pages link.
 
 ## Usage and Notes
 
